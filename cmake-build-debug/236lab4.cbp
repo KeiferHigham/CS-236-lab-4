@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="236lab4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project1">
+				<Option output="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project1/fast">
+				<Option output="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lekeifer/CLionProjects/236lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Automaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Comment.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Database.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/EndOfFile.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/ExpressionParameter.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Header.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Id.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/IdParameter.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Interpreter.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Lexer.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Lexer.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/MatcherAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Parameter.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Parser.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Predicate.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Rules.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/StringParameter.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/StringRec.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Token.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/Tuple.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/UndefinedComment.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/UndefinedString.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/main.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/relation.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/lekeifer/CLionProjects/236lab4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
